@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\bin\Debug\net6.0\CharString.exe
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\bin\Debug\net6.0\CharString.deps.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\bin\Debug\net6.0\CharString.runtimeconfig.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\bin\Debug\net6.0\CharString.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\bin\Debug\net6.0\CharString.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\obj\Debug\net6.0\CharString.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\obj\Debug\net6.0\CharString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\obj\Debug\net6.0\CharString.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\obj\Debug\net6.0\CharString.AssemblyInfo.cs
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\obj\Debug\net6.0\CharString.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\obj\Debug\net6.0\CharString.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\obj\Debug\net6.0\refint\CharString.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\obj\Debug\net6.0\CharString.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\obj\Debug\net6.0\CharString.genruntimeconfig.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(15) 28.08.2023\CharString\CharString\obj\Debug\net6.0\ref\CharString.dll
